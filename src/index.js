@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./index.css";
+import "./index.scss";
 
 const App = () => {
   return (
     <div>
-      <div>Welcome to my-webpack-react-starter</div>
+      <div>WLets get jiggy with it</div>
     </div>
   );
 };
