@@ -6,7 +6,7 @@ import "./index.scss";
 const App = () => {
   return (
     <div>
-      <div>WLets get jiggy with it</div>
+      <div>Portfolio Site initial commit</div>
     </div>
   );
 };
